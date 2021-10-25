@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>es.uca</groupId>
 	<artifactId>iotrestapiexample</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0-RELEASE</version>
 	<name>iotrestapiexample</name>
 	<description>IOT REST API example</description>
 	<properties>
